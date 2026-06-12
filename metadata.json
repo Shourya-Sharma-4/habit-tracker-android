@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "A modern Android habit-tracking app for students, programmers, and self-improvement enthusiasts featuring local storage, dark mode, streak recovery, and an AI Accountability Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
