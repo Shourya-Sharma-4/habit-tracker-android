@@ -2,6 +2,13 @@
 
 A modern Android habit-tracking application designed to help students, programmers, and self-improvement enthusiasts build consistency through streak tracking, analytics, achievements, and AI-powered motivation.
 
+## 📥 Download APK
+
+👉 **Latest Release:**
+https://github.com/Shourya-Sharma-4/habit-tracker-android/releases/latest
+
+Download and install the latest APK directly from the Releases page.
+
 ---
 
 ## 🚀 Key Highlights
