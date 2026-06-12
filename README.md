@@ -111,30 +111,44 @@ Inspired by modern habit-building principles:
 ## 📸 Screenshots
 
 ### Dashboard
+Main habit management screen with categories, streaks, and daily agenda.
 
-![Dashboard](screenshots/dashboard.png)
-
-### Create Habit
-
-![Create Habit](screenshots/create-habit.png)
-
-### Edit Habit
-
-![Edit Habit](screenshots/edit-habit.png)
-
-### Weekly History Tracker
-
-![History](screenshots/history.png)
-
-### Analytics Dashboard
-
-![Analytics](screenshots/analytics.png)
-
-### Achievement System
-
-![Achievements](screenshots/achievements.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ---
+
+### Create Habit
+Create custom habits with category, difficulty, and student mode options.
+
+![Create Habit](screenshots/create-habit.jpg)
+
+---
+
+### Edit Habit
+Modify existing habits and update tracking preferences.
+
+![Edit Habit](screenshots/edit-habit.jpg)
+
+---
+
+### Weekly History Tracker
+Review activity history and completion records across the week.
+
+![History Tracker](screenshots/history-tracker.jpg)
+
+---
+
+### Analytics Dashboard
+Track completion statistics, performance trends, and consistency metrics.
+
+![Analytics](screenshots/analytics.jpg)
+
+---
+
+### Achievement System
+Unlock milestones and track long-term progress.
+
+![Achievements](screenshots/achievements.jpg)
 
 ## 🛠️ Tech Stack
 
